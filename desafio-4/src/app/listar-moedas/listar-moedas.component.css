@@ -1,0 +1,14 @@
+h2 {
+    color: #2c3e50;
+  }
+  
+  .table {
+    font-size: 14px;
+  }
+  
+  @media (max-width: 768px) {
+    .table {
+      font-size: 12px; /* Reduz o tamanho da fonte em telas menores */
+    }
+  }
+  
